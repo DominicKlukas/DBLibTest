@@ -1,0 +1,3003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-04-03T14:48:59">
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>A3931</Part_x0020_Number>
+<Library_x0020_Ref>A3931</Library_x0020_Ref>
+<Footprint_x0020_Ref>48-LQFP-EP (7x7)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\48-LQFP-EP (7x7).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\A3931.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>A3931_A1</Part_x0020_Number>
+<Library_x0020_Ref>A3931_A1</Library_x0020_Ref>
+<Footprint_x0020_Ref>48-LQFP-EP (7x7)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\48-LQFP-EP (7x7).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\A3931_A1.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>AXK606S647</Part_x0020_Number>
+<Library_x0020_Ref>AXK606S647</Library_x0020_Ref>
+<Footprint_x0020_Ref>AXK606S647</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\AXK606S647.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\AXK606S647.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>B2B-XH-A(LF)(SN)</Part_x0020_Number>
+<Library_x0020_Ref>B2B-XH-A(LF)(SN)</Library_x0020_Ref>
+<Footprint_x0020_Ref>JST_B2B-XH-A(LF)(SN)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\JST_B2B-XH-A(LF)(SN).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\B2B-XH-A(LF)(SN).Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>BSS127SSN-7</Part_x0020_Number>
+<Library_x0020_Ref>BSS127SSN-7</Library_x0020_Ref>
+<Footprint_x0020_Ref>SOT95P245X89-3M</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SOT95P245X89-3M.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\BSS127SSN-7.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>BUZZER CEM-1203</Part_x0020_Number>
+<Library_x0020_Ref>BUZZER CEM-1203</Library_x0020_Ref>
+<Footprint_x0020_Ref>CEM-1203</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CEM-1203.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\BUZZER CEM-1203.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>BUZZER PKM13EPYH4000-A0</Part_x0020_Number>
+<Library_x0020_Ref>BUZZER PKM13EPYH4000-A0</Library_x0020_Ref>
+<Footprint_x0020_Ref>BUZZER PKM13EPYH4000-A0</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\BUZZER PKM13EPYH4000-A0.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\BUZZER PKM13EPYH4000-A0.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>BYV44-500,127</Part_x0020_Number>
+<Library_x0020_Ref>BYV44-500,127</Library_x0020_Ref>
+<Footprint_x0020_Ref>to-220-3</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\to-220-3.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\BYV44-500,127.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.010uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.010uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.010uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.010uF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.010uF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.010uF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.022uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.022uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.022uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.022uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.022uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.022uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.022uF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.022uF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.022uF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.033uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.033uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.033uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.033uF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.033uF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.033uF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.047uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.047uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.047uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.047uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.047uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.047uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.047uF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.047uF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.047uF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.056uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.056uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.056uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.056uF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.056uF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.056uF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.068uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.068uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.068uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.068uF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.068uF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.068uF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.082uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.082uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.082uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.082uF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.082uF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.082uF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.10uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.10uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.10uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.10uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.10uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.10uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.1uF 25V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.1uF 25V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.1uF 25V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.1uF 630V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.1uF 630V</Library_x0020_Ref>
+<Footprint_x0020_Ref>1210</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\1210.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.1uF 630V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.22uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.22uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.22uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.22uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.22uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.22uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.22uF 50V RADIAL</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.22uF 50V RADIAL</Library_x0020_Ref>
+<Footprint_x0020_Ref>0.22uF Thru hole</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0.22uF Thru hole.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.22uF 50V RADIAL.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.33uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.33uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.33uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.33uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.33uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.33uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.47uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.47uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.47uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.47uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.47uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.47uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.56uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.56uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.56uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.68uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.68uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.68uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.68uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.68uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.68uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 0.82uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 0.82uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 0.82uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 1.0uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 1.0uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 1.0uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 1.0uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 1.0uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 1.0uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 1.0uF 6.3V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 1.0uF 6.3V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 1.0uF 6.3V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 1000pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 1000pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 1000pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 1000pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 1000pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 1000pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 100nF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 100nF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 100nF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 100pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 100pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 100pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 100pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 100pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 100pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 100uF 6.3V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 100uF 6.3V</Library_x0020_Ref>
+<Footprint_x0020_Ref>1206</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\1206.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 100uF 6.3V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 10nF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 10nF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 10nF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 10pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 10pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 10pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 10pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 10pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 10pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 10uF 10V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 10uF 10V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 10uF 10V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 10uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 10uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 10uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 10uF 25V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 10uF 25V</Library_x0020_Ref>
+<Footprint_x0020_Ref>1206</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\1206.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 10uF 25V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 10uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 10uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 10uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 10uF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 10uF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>1210</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\1210.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 10uF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 10uF 6.3V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 10uF 6.3V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 10uF 6.3V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 1uF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 1uF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 1uF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 2.2uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 2.2uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 2.2uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 2.2uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 2.2uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 2.2uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 2.2uF 6.3V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 2.2uF 6.3V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 2.2uF 6.3V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 2200pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 2200pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 2200pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 2200pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 2200pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 2200pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 220pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 220pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 220pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 220pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 220pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 220pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 22pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 22pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 22pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 22pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 22pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 22pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 22uF 10V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 22uF 10V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 22uF 10V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 22uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 22uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 22uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 22uF 6.3V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 22uF 6.3V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 22uF 6.3V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 2700pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 2700pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 2700pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 3.3uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 3.3uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 3.3uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 3.3uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 3.3uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 3.3uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 3.3uF 6.3V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 3.3uF 6.3V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 3.3uF 6.3V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 30pF 25V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 30pF 25V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 30pF 25V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 3300pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 3300pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 3300pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 3300pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 3300pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 3300pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 330pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 330pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 330pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 330pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 330pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 330pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 33nF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 33nF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 33nF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 33pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 33pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 33pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 33pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 33pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 33pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 33uF 6.3V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 33uF 6.3V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 33uF 6.3V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 4.7uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 4.7uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 4.7uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 4.7uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 4.7uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 4.7uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 4.7uF 6.3V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 4.7uF 6.3V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 4.7uF 6.3V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 4700pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 4700pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 4700pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 4700pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 4700pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 4700pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 470nF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 470nF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 470nF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 470pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 470pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 470pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 470pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 470pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 470pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 470pF 50V - C0G/NPO</Part_x0020_Number>
+<Library_x0020_Ref>CAP 470pF 50V - C0G/NPO</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 470pF 50V - C0G/NPO.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 470uF 35V SMD</Part_x0020_Number>
+<Library_x0020_Ref>CAP 470uF 35V SMD</Library_x0020_Ref>
+<Footprint_x0020_Ref>Radial, Can - SMD</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\Radial, Can - SMD.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 470uF 35V SMD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 47nF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 47nF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 47nF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 47pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 47pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 47pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 47pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 47pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 47pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 47uF 6.3V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 47uF 6.3V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 47uF 6.3V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 47uF 6.3V - 1210</Part_x0020_Number>
+<Library_x0020_Ref>CAP 47uF 6.3V - 1210</Library_x0020_Ref>
+<Footprint_x0020_Ref>1210</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\1210.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 47uF 6.3V - 1210.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 5.1pF 630V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 5.1pF 630V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 5.1pF 630V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 5.6pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 5.6pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 5.6pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 5.6uF 6.3V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 5.6uF 6.3V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 5.6uF 6.3V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 5600pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 5600pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 5600pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 560pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 560pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 560pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 56pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 56pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 56pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 6.8uF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 6.8uF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 6.8uF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 6.8uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 6.8uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 6.8uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 6.8uF 6.3V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 6.8uF 6.3V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 6.8uF 6.3V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 6800pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 6800pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 6800pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 6800pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 6800pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 6800pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 680pF 16V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 680pF 16V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 680pF 16V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 680pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 680pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 680pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 68pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 68pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 68pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 8.2nF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 8.2nF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 8.2nF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 8200pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 8200pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 8200pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 820pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 820pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 820pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 82nF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 82nF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 82nF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP 82pF 50V</Part_x0020_Number>
+<Library_x0020_Ref>CAP 82pF 50V</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP 82pF 50V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP POL 0.1uF 100V</Part_x0020_Number>
+<Library_x0020_Ref>CAP POL 0.1uF 100V</Library_x0020_Ref>
+<Footprint_x0020_Ref>CAPPRD200W50D525H1250</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CAPPRD200W50D525H1250.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP POL 0.1uF 100V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP POL 0.1uF 35V</Part_x0020_Number>
+<Library_x0020_Ref>CAP POL 0.1uF 35V</Library_x0020_Ref>
+<Footprint_x0020_Ref>CAPAE430X730N</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CAPAE430X730N.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP POL 0.1uF 35V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP POL 1000uF</Part_x0020_Number>
+<Library_x0020_Ref>CAP POL 1000uF</Library_x0020_Ref>
+<Footprint_x0020_Ref>RADIAL, CAN - THRU 25.4mm</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\RADIAL, CAN - THRU 25.4mm.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP POL 1000uF.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP POL 1000uF RADIAL SMD</Part_x0020_Number>
+<Library_x0020_Ref>CAP POL 1000uF RADIAL SMD</Library_x0020_Ref>
+<Footprint_x0020_Ref>Radial, Can - SMD</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\Radial, Can - SMD.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP POL 1000uF RADIAL SMD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP POL 1000uF TH</Part_x0020_Number>
+<Library_x0020_Ref>CAP POL 1000uF TH</Library_x0020_Ref>
+<Footprint_x0020_Ref>RADIAL - THRU 5mm</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\RADIAL - THRU 5mm.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP POL 1000uF TH.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP POL 10uF RADIAL</Part_x0020_Number>
+<Library_x0020_Ref>CAP POL 10uF RADIAL</Library_x0020_Ref>
+<Footprint_x0020_Ref>RADIAL - THRU 5mm</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\RADIAL - THRU 5mm.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP POL 10uF RADIAL.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP POL 680uF TH</Part_x0020_Number>
+<Library_x0020_Ref>CAP POL 680uF TH</Library_x0020_Ref>
+<Footprint_x0020_Ref>RADIAL, CAN - THRU 10mm</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\RADIAL, CAN - THRU 10mm.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP POL 680uF TH.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP TANT 10uF 10V</Part_x0020_Number>
+<Library_x0020_Ref>CAP TANT 10uF 10V</Library_x0020_Ref>
+<Footprint_x0020_Ref>1206 Polarized</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\1206 Polarized.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAP TANT 10uF 10V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAPACITOR_SCH</Part_x0020_Number>
+<Library_x0020_Ref>CAPACITOR_SCH</Library_x0020_Ref>
+<Footprint_x0020_Path>PCB\.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAPACITOR_SCH.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN 3.5MM JACK</Part_x0020_Number>
+<Library_x0020_Ref>CN 3.5MM JACK</Library_x0020_Ref>
+<Footprint_x0020_Ref>CONN JACK STEREO 3.5MM R/A</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CONN JACK STEREO 3.5MM R/A.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN 3.5MM JACK.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN 3POS JST B3B-ZR</Part_x0020_Number>
+<Library_x0020_Ref>CN 3POS JST B3B-ZR</Library_x0020_Ref>
+<Footprint_x0020_Ref>CN 3POS JST B3B-ZR</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CN 3POS JST B3B-ZR.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN 3POS JST B3B-ZR.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN 4POS JST XH</Part_x0020_Number>
+<Library_x0020_Ref>CN 4POS JST XH</Library_x0020_Ref>
+<Footprint_x0020_Ref>JST_B4B-XH-A(LF)(SN)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\JST_B4B-XH-A(LF)(SN).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN 4POS JST XH.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN 6POS JST RA</Part_x0020_Number>
+<Library_x0020_Ref>CN 6POS JST RA</Library_x0020_Ref>
+<Footprint_x0020_Ref>6POS JST</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\6POS JST.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN 6POS JST RA.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN HDR 24POS 2x12</Part_x0020_Number>
+<Library_x0020_Ref>CN HDR 24POS 2x12</Library_x0020_Ref>
+<Footprint_x0020_Ref>CN Header 24 POS (12x2)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CN Header 24 POS (12x2).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN HDR 24POS 2x12.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN HDR 34POS 2x17</Part_x0020_Number>
+<Library_x0020_Ref>CN HDR 34POS 2x17</Library_x0020_Ref>
+<Footprint_x0020_Ref>SAMTEC_ESQ-117-12-L-D</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SAMTEC_ESQ-117-12-L-D.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN HDR 34POS 2x17.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN HDR 4POS</Part_x0020_Number>
+<Library_x0020_Ref>CN HDR 4POS</Library_x0020_Ref>
+<Footprint_x0020_Ref>EncoderConnector</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\EncoderConnector.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN HDR 4POS.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN HDR 4POS Molex 26013115 (R)</Part_x0020_Number>
+<Library_x0020_Ref>CN HDR 4POS Molex 26013115 (R)</Library_x0020_Ref>
+<Footprint_x0020_Ref>26013115</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\26013115.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN HDR 4POS Molex 26013115 (R).Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN HDR 60POS SMD GOLD</Part_x0020_Number>
+<Library_x0020_Ref>CN HDR 60POS SMD GOLD</Library_x0020_Ref>
+<Footprint_x0020_Ref>CN HDR 60POS</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CN HDR 60POS.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN HDR 60POS SMD GOLD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN HDR 6POS 3.96MM</Part_x0020_Number>
+<Library_x0020_Ref>CN HDR 6POS 3.96MM</Library_x0020_Ref>
+<Footprint_x0020_Ref>CN HDR 6POS 3.96MM</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CN HDR 6POS 3.96MM.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN HDR 6POS 3.96MM.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN HDR 6POS Molex 43045-0622 (R)</Part_x0020_Number>
+<Library_x0020_Ref>CN HDR 6POS Molex 43045-0622 (R)</Library_x0020_Ref>
+<Footprint_x0020_Ref>430450622</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\430450622.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN HDR 6POS Molex 43045-0622 (R).Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN HDR 8POS Motor Molex</Part_x0020_Number>
+<Library_x0020_Ref>CN HDR 8POS Motor Molex</Library_x0020_Ref>
+<Footprint_x0020_Ref>MOLEX_0039281083</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\MOLEX_0039281083.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN HDR 8POS Motor Molex.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN HDR JTAG</Part_x0020_Number>
+<Library_x0020_Ref>CN HDR JTAG</Library_x0020_Ref>
+<Footprint_x0020_Ref>CN HDR JTAG</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CN HDR JTAG.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN HDR JTAG.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN MAGJACK</Part_x0020_Number>
+<Library_x0020_Ref>CN MAGJACK</Library_x0020_Ref>
+<Footprint_x0020_Ref>RJ45 J00-0045NL</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\RJ45 J00-0045NL.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN MAGJACK.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN MOLEX 4365002XX</Part_x0020_Number>
+<Library_x0020_Ref>CN MOLEX 4365002XX</Library_x0020_Ref>
+<Footprint_x0020_Ref>43650-02</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\43650-02.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN MOLEX 4365002XX.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN PCIE 36 Card Edge</Part_x0020_Number>
+<Library_x0020_Ref>CN PCIE 36 Card Edge</Library_x0020_Ref>
+<Footprint_x0020_Ref>CN PCIE EDGE 36CKT</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CN PCIE EDGE 36CKT.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN PCIE 36 Card Edge.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN PCIE 36 TH</Part_x0020_Number>
+<Library_x0020_Ref>CN PCIE 36 TH</Library_x0020_Ref>
+<Footprint_x0020_Ref>CN PCIE 36 TH</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CN PCIE 36 TH.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN PCIE 36 TH.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN PWR JACK</Part_x0020_Number>
+<Library_x0020_Ref>CN PWR JACK</Library_x0020_Ref>
+<Footprint_x0020_Ref>CUI_PJ-007</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CUI_PJ-007.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN PWR JACK.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CN SHROUDED HDR 4POS</Part_x0020_Number>
+<Library_x0020_Ref>CN SHROUDED HDR 4POS</Library_x0020_Ref>
+<Footprint_x0020_Ref>JST_S4B-ZR(LF)(SN)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\JST_S4B-ZR(LF)(SN).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CN SHROUDED HDR 4POS.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CONN MICRO SD CARD PUSH-PUSH R/A</Part_x0020_Number>
+<Library_x0020_Ref>CONN MICRO SD CARD PUSH-PUSH R/A</Library_x0020_Ref>
+<Footprint_x0020_Ref>SD Connector 5027740891</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SD Connector 5027740891.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CONN MICRO SD CARD PUSH-PUSH R/A.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>DA2034</Part_x0020_Number>
+<Library_x0020_Ref>DA2034</Library_x0020_Ref>
+<Footprint_x0020_Ref>DA2034</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\DA2034.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\DA2034.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>DIODE SCHOTTKY 200V 10A</Part_x0020_Number>
+<Library_x0020_Ref>DIODE SCHOTTKY 200V 10A</Library_x0020_Ref>
+<Footprint_x0020_Ref>DPAK</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\DPAK.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\DIODE SCHOTTKY 200V 10A.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>DIODE SCHOTTKY 20V 1A</Part_x0020_Number>
+<Library_x0020_Ref>DIODE SCHOTTKY 20V 1A</Library_x0020_Ref>
+<Footprint_x0020_Ref>SOD-123</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SOD-123.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\DIODE SCHOTTKY 20V 1A.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>DIODE SCHOTTKY 40V 3A</Part_x0020_Number>
+<Library_x0020_Ref>DIODE SCHOTTKY 40V 3A</Library_x0020_Ref>
+<Footprint_x0020_Ref>DO-214AC</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\DO-214AC.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\DIODE SCHOTTKY 40V 3A.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>DIODE SCHOTTKY 50V 500mA</Part_x0020_Number>
+<Library_x0020_Ref>DIODE SCHOTTKY 50V 500mA</Library_x0020_Ref>
+<Footprint_x0020_Ref>SOD-123</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SOD-123.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\DIODE SCHOTTKY 50V 500mA.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>DIODE STANDARD 600V 5A</Part_x0020_Number>
+<Library_x0020_Ref>DIODE STANDARD 600V 5A</Library_x0020_Ref>
+<Footprint_x0020_Ref>DO-214AA</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\DO-214AA.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\DIODE STANDARD 600V 5A.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>DIODE TVS CPDV5-3V3UP</Part_x0020_Number>
+<Library_x0020_Ref>DIODE TVS CPDV5-3V3UP</Library_x0020_Ref>
+<Footprint_x0020_Ref>SOT65P230X110-5N</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SOT65P230X110-5N.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\DIODE TVS CPDV5-3V3UP.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>DIODE ZENER 15V 3W</Part_x0020_Number>
+<Library_x0020_Ref>DIODE ZENER 15V 3W</Library_x0020_Ref>
+<Footprint_x0020_Ref>DO-214AA</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\DO-214AA.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\DIODE ZENER 15V 3W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>DIODE ZENER 2.8V 500mW</Part_x0020_Number>
+<Library_x0020_Ref>DIODE ZENER 2.8V 500mW</Library_x0020_Ref>
+<Footprint_x0020_Ref>SOD-123</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SOD-123.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\DIODE ZENER 2.8V 500mW.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>DIODE ZENER 3.3 500mW</Part_x0020_Number>
+<Library_x0020_Ref>DIODE ZENER 3.3 500mW</Library_x0020_Ref>
+<Footprint_x0020_Ref>ONSC-SOD-123-2-425-04_V</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\ONSC-SOD-123-2-425-04_V.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\DIODE ZENER 3.3 500mW.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>DS02-254-1L-04BE</Part_x0020_Number>
+<Library_x0020_Ref>DS02-254-1L-04BE</Library_x0020_Ref>
+<Footprint_x0020_Ref>SW_DS02-254-1L-04BE</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SW_DS02-254-1L-04BE.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\DS02-254-1L-04BE.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>EMI FILTER EMIF06-1005M12</Part_x0020_Number>
+<Library_x0020_Ref>EMI FILTER EMIF06-1005M12</Library_x0020_Ref>
+<Footprint_x0020_Ref>Filter</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\Filter.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\EMI FILTER EMIF06-1005M12.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>EMI FILTER IP4256CZ5-W</Part_x0020_Number>
+<Library_x0020_Ref>EMI FILTER IP4256CZ5-W</Library_x0020_Ref>
+<Footprint_x0020_Ref>SOT-665</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SOT-665.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\EMI FILTER IP4256CZ5-W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>EMI FILTER NFA18SL506X1A45L</Part_x0020_Number>
+<Library_x0020_Ref>EMI FILTER NFA18SL506X1A45L</Library_x0020_Ref>
+<Footprint_x0020_Ref>CAF-40P155X80-8N</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\CAF-40P155X80-8N.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\EMI FILTER NFA18SL506X1A45L.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>EMI FILTER NUF8402MN</Part_x0020_Number>
+<Library_x0020_Ref>EMI FILTER NUF8402MN</Library_x0020_Ref>
+<Footprint_x0020_Ref>SON50P160X100_HS-17M</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SON50P160X100_HS-17M.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\EMI FILTER NUF8402MN.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>EMI FILTER TPD6F002DSVR</Part_x0020_Number>
+<Library_x0020_Ref>EMI FILTER TPD6F002DSVR</Library_x0020_Ref>
+<Footprint_x0020_Ref>PSON50P140X80_HS-13N</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\PSON50P140X80_HS-13N.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\EMI FILTER TPD6F002DSVR.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>FDS2582</Part_x0020_Number>
+<Library_x0020_Ref>FDS2582</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-SOIC MOSFET</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-SOIC MOSFET.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\FDS2582.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>FGY75N60SMD</Part_x0020_Number>
+<Library_x0020_Ref>FGY75N60SMD</Library_x0020_Ref>
+<Footprint_x0020_Ref>TO-247-3</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\TO-247-3.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\FGY75N60SMD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>FUSE 10A 63V SLOW</Part_x0020_Number>
+<Library_x0020_Ref>FUSE 10A 63V SLOW</Library_x0020_Ref>
+<Footprint_x0020_Ref>1206</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\1206.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\FUSE 10A 63V SLOW.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>FUSE 1A 32V FAST</Part_x0020_Number>
+<Library_x0020_Ref>FUSE 1A 32V FAST</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\FUSE 1A 32V FAST.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>FUSE 20A 63V SLOW</Part_x0020_Number>
+<Library_x0020_Ref>FUSE 20A 63V SLOW</Library_x0020_Ref>
+<Footprint_x0020_Ref>1206</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\1206.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\FUSE 20A 63V SLOW.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>FUSE 3A 63V SLOW</Part_x0020_Number>
+<Library_x0020_Ref>FUSE 3A 63V SLOW</Library_x0020_Ref>
+<Footprint_x0020_Ref>1206</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\1206.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\FUSE 3A 63V SLOW.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>FUSE BLADE</Part_x0020_Number>
+<Library_x0020_Ref>FUSE BLADE</Library_x0020_Ref>
+<Footprint_x0020_Ref>FUSE_3557-2</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\FUSE_3557-2.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\FUSE BLADE.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>GA3459</Part_x0020_Number>
+<Library_x0020_Ref>GA3459</Library_x0020_Ref>
+<Footprint_x0020_Ref>GA34XX-BL</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\GA34XX-BL.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\GA3459.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>IC INA226AIDGSR</Part_x0020_Number>
+<Library_x0020_Ref>IC INA226AIDGSR</Library_x0020_Ref>
+<Footprint_x0020_Ref>10-VSSOP</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\10-VSSOP.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\IC INA226AIDGSR.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>IMU LSM6DSLTR</Part_x0020_Number>
+<Library_x0020_Ref>IMU LSM6DSLTR</Library_x0020_Ref>
+<Footprint_x0020_Ref>LGA-14</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\LGA-14.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\IMU LSM6DSLTR.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>IND 100UH 50MA 4 OHM SMD</Part_x0020_Number>
+<Library_x0020_Ref>IND 100UH 50MA 4 OHM SMD</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\IND 100UH 50MA 4 OHM SMD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>IND 15UH 3.2A 50 MOHM</Part_x0020_Number>
+<Library_x0020_Ref>IND 15UH 3.2A 50 MOHM</Library_x0020_Ref>
+<Footprint_x0020_Ref>INDP8279X40M</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\INDP8279X40M.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\IND 15UH 3.2A 50 MOHM.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>IND 15UH 4.5A 34 MOHM</Part_x0020_Number>
+<Library_x0020_Ref>IND 15UH 4.5A 34 MOHM</Library_x0020_Ref>
+<Footprint_x0020_Ref>INDP130130X73M</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\INDP130130X73M.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\IND 15UH 4.5A 34 MOHM.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>IND 3.3UH 5.6A 21 MOHM SMD</Part_x0020_Number>
+<Library_x0020_Ref>IND 3.3UH 5.6A 21 MOHM SMD</Library_x0020_Ref>
+<Footprint_x0020_Ref>INDP8279X40M</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\INDP8279X40M.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\IND 3.3UH 5.6A 21 MOHM SMD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>IND 8.2UH 4.6A 15MOHM</Part_x0020_Number>
+<Library_x0020_Ref>IND 8.2UH 4.6A 15MOHM</Library_x0020_Ref>
+<Footprint_x0020_Ref>SRU1048-8R2Y</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SRU1048-8R2Y.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\IND 8.2UH 4.6A 15MOHM.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>IR4427STRPBF</Part_x0020_Number>
+<Library_x0020_Ref>IR4427STRPBF</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-SOIC</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-SOIC.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\IR4427STRPBF.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>Jumper (0805 Compatible)</Part_x0020_Number>
+<Library_x0020_Ref>Jumper (0805 Compatible)</Library_x0020_Ref>
+<Footprint_x0020_Ref>Solder Jumper</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\Solder Jumper.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\Jumper (0805 Compatible).Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>LAN8742A-CZ-TR</Part_x0020_Number>
+<Library_x0020_Ref>LAN8742A-CZ-TR</Library_x0020_Ref>
+<Footprint_x0020_Ref>24-QFN (4x4)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\24-QFN (4x4).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\LAN8742A-CZ-TR.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>LD1084V</Part_x0020_Number>
+<Library_x0020_Ref>LD1084V</Library_x0020_Ref>
+<Footprint_x0020_Ref>TO-220-3</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\TO-220-3.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\LD1084V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>LED GREEN SMD</Part_x0020_Number>
+<Library_x0020_Ref>LED GREEN SMD</Library_x0020_Ref>
+<Footprint_x0020_Ref>3.2X1.6X1.1</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\3.2X1.6X1.1.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\LED GREEN SMD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>LED RED SMD</Part_x0020_Number>
+<Library_x0020_Ref>LED RED SMD</Library_x0020_Ref>
+<Footprint_x0020_Ref>3.2X1.6X1.1</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\3.2X1.6X1.1.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\LED RED SMD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>LED RGB APFA3011-AK13/F</Part_x0020_Number>
+<Library_x0020_Ref>LED RGB APFA3011-AK13/F</Library_x0020_Ref>
+<Footprint_x0020_Ref>LED RGB APFA3011-AK13/F</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\LED RGB APFA3011-AK13/F.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\LED RGB APFA3011-AK13/F.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>LED RGB CLEAR 4SMD</Part_x0020_Number>
+<Library_x0020_Ref>LED RGB CLEAR 4SMD</Library_x0020_Ref>
+<Footprint_x0020_Ref>LED RGB APHF1608SEEQBDZGKC_KNB-L</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\LED RGB APHF1608SEEQBDZGKC_KNB-L.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\LED RGB CLEAR 4SMD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>LED RGB CLEAR 4SMD 3528</Part_x0020_Number>
+<Library_x0020_Ref>LED RGB CLEAR 4SMD 3528</Library_x0020_Ref>
+<Footprint_x0020_Ref>LED 4pin 3.5 x 2.8</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\LED 4pin 3.5 x 2.8.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\LED RGB CLEAR 4SMD 3528.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>LM2904DR</Part_x0020_Number>
+<Library_x0020_Ref>LM2904DR</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-SOIC</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-SOIC.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\LM2904DR.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>LT1723IS8</Part_x0020_Number>
+<Library_x0020_Ref>LT1723IS8</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-SOIC</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-SOIC.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\LT1723IS8.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>LT3751EFE#PBF</Part_x0020_Number>
+<Library_x0020_Ref>LT3751EFE#PBF</Library_x0020_Ref>
+<Footprint_x0020_Ref>LT-FE-20-EPV-CB_L</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\LT-FE-20-EPV-CB_L.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\LT3751EFE#PBF.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>MAX 6682</Part_x0020_Number>
+<Library_x0020_Ref>MAX 6682</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-MSOP</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-MSOP.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\MAX 6682.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>MOSFET AON6407</Part_x0020_Number>
+<Library_x0020_Ref>MOSFET AON6407</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-PowerSMD</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-PowerSMD.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\MOSFET AON6407.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>MOSFET BSC0921NDI</Part_x0020_Number>
+<Library_x0020_Ref>MOSFET BSC0921NDI</Library_x0020_Ref>
+<Footprint_x0020_Ref>PG-TISON-8-2</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\PG-TISON-8-2.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\MOSFET BSC0921NDI.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>MOSFET BSC320N20NS3</Part_x0020_Number>
+<Library_x0020_Ref>MOSFET BSC320N20NS3</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-PowerSMD</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-PowerSMD.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\MOSFET BSC320N20NS3.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>MOSFET IPD320N20N3GATMA1</Part_x0020_Number>
+<Library_x0020_Ref>MOSFET IPD320N20N3GATMA1</Library_x0020_Ref>
+<Footprint_x0020_Ref>DPAK (TO-252)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\DPAK (TO-252).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\MOSFET IPD320N20N3GATMA1.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>MOSFET IPG20N06S4-15A</Part_x0020_Number>
+<Library_x0020_Ref>MOSFET IPG20N06S4-15A</Library_x0020_Ref>
+<Footprint_x0020_Ref>PG-TDSON-8-10</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\PG-TDSON-8-10.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\MOSFET IPG20N06S4-15A.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>MOSFET N-CH 30V 18.5A</Part_x0020_Number>
+<Library_x0020_Ref>MOSFET N-CH 30V 18.5A</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-SOIC MOSFET</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-SOIC MOSFET.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\MOSFET N-CH 30V 18.5A.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>MOSFET SI4425DDY-T1-GE3</Part_x0020_Number>
+<Library_x0020_Ref>MOSFET SI4425DDY-T1-GE3</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-SOIC MOSFET</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-SOIC MOSFET.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\MOSFET SI4425DDY-T1-GE3.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>N-BJT BCP54</Part_x0020_Number>
+<Library_x0020_Ref>N-BJT BCP54</Library_x0020_Ref>
+<Footprint_x0020_Ref>SOT-23 (3)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SOT-23 (3).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\N-BJT BCP54.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>NetTie</Part_x0020_Number>
+<Library_x0020_Ref>NetTie</Library_x0020_Ref>
+<Footprint_x0020_Ref>NET_TIE-12</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\NET_TIE-12.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\NetTie.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>NTC</Part_x0020_Number>
+<Library_x0020_Ref>NTC</Library_x0020_Ref>
+<Footprint_x0020_Path>PCB\.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\NTC.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>ODIN-W262</Part_x0020_Number>
+<Library_x0020_Ref>ODIN-W262</Library_x0020_Ref>
+<Footprint_x0020_Ref>ODIN-W262</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\ODIN-W262.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\ODIN-W262.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>OP AMP DUAL</Part_x0020_Number>
+<Library_x0020_Ref>OP AMP DUAL</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-MSOP</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-MSOP.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\OP AMP DUAL.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>OP AMP MIC7300YM5-TR</Part_x0020_Number>
+<Library_x0020_Ref>OP AMP MIC7300YM5-TR</Library_x0020_Ref>
+<Footprint_x0020_Ref>FP-SOT23-5LD-PL-1-IPC_A</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\FP-SOT23-5LD-PL-1-IPC_A.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\OP AMP MIC7300YM5-TR.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>OP AMP SINGLE</Part_x0020_Number>
+<Library_x0020_Ref>OP AMP SINGLE</Library_x0020_Ref>
+<Footprint_x0020_Ref>SOT95P280X145-5N</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SOT95P280X145-5N.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\OP AMP SINGLE.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>POT 20K THRU</Part_x0020_Number>
+<Library_x0020_Ref>POT 20K THRU</Library_x0020_Ref>
+<Footprint_x0020_Ref>Potentiometer 20K</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\Potentiometer 20K.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\POT 20K THRU.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>PT65506L508</Part_x0020_Number>
+<Library_x0020_Ref>PT65506L508</Library_x0020_Ref>
+<Footprint_x0020_Ref>PT65506L508</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\PT65506L508.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\PT65506L508.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>REG LIN 5V</Part_x0020_Number>
+<Library_x0020_Ref>REG LIN 5V</Library_x0020_Ref>
+<Footprint_x0020_Ref>3-SIP R/A</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\3-SIP R/A.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\REG LIN 5V.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>REG LIN POS ADJ</Part_x0020_Number>
+<Library_x0020_Ref>REG LIN POS ADJ</Library_x0020_Ref>
+<Footprint_x0020_Ref>REG LIN POS ADJ 500MA 8SOIC</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\REG LIN POS ADJ 500MA 8SOIC.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\REG LIN POS ADJ.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 0 JUMPER</Part_x0020_Number>
+<Library_x0020_Ref>RES 0 JUMPER</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 0 JUMPER.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.05k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.05k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.05k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.1 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.1 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.1 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.1k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.1k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.1k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.2 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.2 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.2 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.2k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.2k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.2k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.3 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.3 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.3 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.3k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.3k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.3k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.5 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.5 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.5 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.5k 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.5k 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.5k 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.5k 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.5k 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.5k 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.5k 50W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.5k 50W</Library_x0020_Ref>
+<Footprint_x0020_Ref>D2PAK (TO-263)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\D2PAK (TO-263).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.5k 50W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.6 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.6 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.6 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.6k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.6k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.6k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.8 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.8 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.8 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.8k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.8k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.8k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1.96k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1.96k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1.96k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 10.0 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 10.0 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 10.0 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 10.0 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 10.0 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 10.0 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 10.2k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 10.2k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 10.2k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 100.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 100.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 100.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 100k 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 100k 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 100k 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 100k 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 100k 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 100k 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 10k 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 10k 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 10k 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 10k 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 10k 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 10k 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 11.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 11.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 11.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 11.5k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 11.5k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 11.5k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 110.0 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 110.0 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 110.0 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 110.0 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 110.0 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 110.0 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 110k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 110k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 110k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 11k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 11k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 11k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 12.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 12.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 12.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 12.1k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 12.1k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 12.1k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 120.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 120.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 120.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 120k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 120k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 120k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 12k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 12k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 12k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 13.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 13.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 13.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 130.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 130.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 130.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 130k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 130k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 130k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 13k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 13k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 13k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 14k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 14k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 14k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 15.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 15.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 15.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 150.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 150.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 150.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 150k 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 150k 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 150k 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 150k 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 150k 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 150k 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 15k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 15k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 15k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 16.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 16.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 16.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 160.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 160.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 160.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 160k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 160k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 160k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 165k 1/4W</Part_x0020_Number>
+<Library_x0020_Ref>RES 165k 1/4W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 165k 1/4W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 169k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 169k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 169k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 16k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 16k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 16k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 16m 1/2W</Part_x0020_Number>
+<Library_x0020_Ref>RES 16m 1/2W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 16m 1/2W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 174k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 174k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 174k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 18.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 18.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 18.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 18.7K 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 18.7K 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 18.7K 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 180.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 180.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 180.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 180k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 180k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 180k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 182.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 182.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 182.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 18k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 18k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 18k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 18k 1W</Part_x0020_Number>
+<Library_x0020_Ref>RES 18k 1W</Library_x0020_Ref>
+<Footprint_x0020_Ref>2512</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\2512.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 18k 1W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 1k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 1k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 1k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 2.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 2.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 2.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 2.2 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 2.2 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 2.2 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 2.2k 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 2.2k 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 2.2k 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 2.2k 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 2.2k 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 2.2k 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 2.37k 1/4W</Part_x0020_Number>
+<Library_x0020_Ref>RES 2.37k 1/4W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 2.37k 1/4W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 2.4 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 2.4 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 2.4 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 2.4k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 2.4k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 2.4k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 2.7 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 2.7 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 2.7 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 2.7k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 2.7k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 2.7k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 20.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 20.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 20.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 200.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 200.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 200.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 200k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 200k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 200k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 20k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 20k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 20k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 20m 1/2W</Part_x0020_Number>
+<Library_x0020_Ref>RES 20m 1/2W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 20m 1/2W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 20m 1W</Part_x0020_Number>
+<Library_x0020_Ref>RES 20m 1W</Library_x0020_Ref>
+<Footprint_x0020_Ref>1206 - Sense</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\1206 - Sense.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 20m 1W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 22.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 22.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 22.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 220.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 220.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 220.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 220k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 220k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 220k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 22k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 22k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 22k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 24.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 24.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 24.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 24.3k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 24.3k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 24.3k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 240.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 240.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 240.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 240k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 240k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 240k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 24k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 24k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 24k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 25.5k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 25.5k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 25.5k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 27.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 27.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 27.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 270.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 270.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 270.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 270k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 270k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 270k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 274k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 274k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 274k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 27k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 27k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 27k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 2k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 2k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 2k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 2m 1W</Part_x0020_Number>
+<Library_x0020_Ref>RES 2m 1W</Library_x0020_Ref>
+<Footprint_x0020_Ref>1206</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\1206.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 2m 1W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 3.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 3.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 3.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 3.3 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 3.3 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 3.3 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 3.3k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 3.3k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 3.3k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 3.6 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 3.6 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 3.6 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 3.6k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 3.6k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 3.6k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 3.9 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 3.9 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 3.9 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 3.9k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 3.9k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 3.9k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 30.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 30.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 30.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 300.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 300.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 300.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 300k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 300k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 300k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 30k 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 30k 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 30k 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 30k 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 30k 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 30k 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 33.0 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 33.0 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 33.0 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 33.0 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 33.0 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 33.0 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 330.0 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 330.0 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 330.0 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 330.0 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 330.0 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 330.0 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 330k 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 330k 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 330k 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 330k 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 330k 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 330k 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 33k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 33k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 33k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 36.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 36.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 36.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 360.0 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 360.0 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 360.0 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 360.0 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 360.0 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 360.0 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 360k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 360k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 360k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 36k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 36k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 36k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 374k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 374k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 374k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 39.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 39.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 39.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 390.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 390.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 390.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 390k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 390k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 390k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 39k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 39k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 39k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 3k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 3k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 3k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 4.3 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 4.3 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 4.3 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 4.3k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 4.3k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 4.3k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 4.7 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 4.7 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 4.7 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 4.7k 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 4.7k 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 4.7k 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 4.7k 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 4.7k 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 4.7k 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 43.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 43.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 43.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 430.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 430.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 430.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 430k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 430k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 430k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 43k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 43k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 43k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 47.0 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 47.0 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 47.0 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 47.0 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 47.0 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 47.0 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 470.0 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 470.0 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 470.0 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 470.0 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 470.0 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 470.0 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 470k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 470k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 470k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 47k 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 47k 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 47k 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 47k 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 47k 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 47k 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 49.9 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 49.9 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 49.9 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 495k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 495k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 495k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 5.1 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 5.1 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 5.1 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 5.1k 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 5.1k 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 5.1k 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 5.1k 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 5.1k 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 5.1k 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 5.1M 1/8W-5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 5.1M 1/8W-5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 5.1M 1/8W-5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 5.6 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 5.6 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 5.6 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 5.6k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 5.6k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 5.6k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 51.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 51.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 51.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 510.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 510.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 510.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 510k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 510k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 510k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 51k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 51k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 51k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 56.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 56.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 56.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 56.2k 1/10W</Part_x0020_Number>
+<Library_x0020_Ref>RES 56.2k 1/10W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 56.2k 1/10W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 560.0 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 560.0 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 560.0 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 560.0 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 560.0 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 560.0 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 560k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 560k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 560k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 56k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 56k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 56k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 6.2 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 6.2 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 6.2 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 6.2k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 6.2k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 6.2k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 6.8 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 6.8 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 6.8 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 6.8k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 6.8k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 6.8k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 62.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 62.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 62.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 620.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 620.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 620.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 620k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 620k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 620k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 62k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 62k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 62k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 64.9k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 64.9k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 64.9k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 68.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 68.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 68.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 680.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 680.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 680.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 680k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 680k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 680k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 68k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 68k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 68k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 7.5 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 7.5 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 7.5 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 7.5k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 7.5k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 7.5k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 7.68k 0.15W</Part_x0020_Number>
+<Library_x0020_Ref>RES 7.68k 0.15W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 7.68k 0.15W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 732.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 732.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 732.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 75.0 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 75.0 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 75.0 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 75.0 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 75.0 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 75.0 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 750.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 750.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 750.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 750k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 750k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 750k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 75k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 75k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 75k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 7m 3W</Part_x0020_Number>
+<Library_x0020_Ref>RES 7m 3W</Library_x0020_Ref>
+<Footprint_x0020_Ref>2512</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\2512.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 7m 3W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 8.2 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 8.2 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 8.2 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 8.2k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 8.2k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 8.2k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 82.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 82.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 82.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 820.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 820.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 820.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 820k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 820k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 820k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 82k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 82k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 82k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 9.1 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 9.1 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 9.1 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 9.1k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 9.1k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 9.1k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 91.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 91.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 91.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 910.0 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 910.0 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 910.0 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 910k 1/8W</Part_x0020_Number>
+<Library_x0020_Ref>RES 910k 1/8W</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 910k 1/8W.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 91k 1/8W - 1%</Part_x0020_Number>
+<Library_x0020_Ref>RES 91k 1/8W - 1%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 91k 1/8W - 1%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RES 91k 1/8W - 5%</Part_x0020_Number>
+<Library_x0020_Ref>RES 91k 1/8W - 5%</Library_x0020_Ref>
+<Footprint_x0020_Ref>0805</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RES 91k 1/8W - 5%.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>RESISTOR_SCH</Part_x0020_Number>
+<Library_x0020_Ref>RESISTOR_SCH</Library_x0020_Ref>
+<Footprint_x0020_Path>PCB\0805.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\RESISTOR_SCH.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>STD11N60DM2</Part_x0020_Number>
+<Library_x0020_Ref>STD11N60DM2</Library_x0020_Ref>
+<Footprint_x0020_Ref>DPAK (TO-252)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\DPAK (TO-252).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\STD11N60DM2.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>STLINK-V3MODS</Part_x0020_Number>
+<Library_x0020_Ref>STLINK-V3MODS</Library_x0020_Ref>
+<Footprint_x0020_Ref>STLINK-V3MODS</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\STLINK-V3MODS.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\STLINK-V3MODS.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>STM32H743ZIT6</Part_x0020_Number>
+<Library_x0020_Ref>STM32H743ZIT6</Library_x0020_Ref>
+<Footprint_x0020_Ref>QFP50P2200X2200X160-144N</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\QFP50P2200X2200X160-144N.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\STM32H743ZIT6.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>SW PUSH NO SMD</Part_x0020_Number>
+<Library_x0020_Ref>SW PUSH NO SMD</Library_x0020_Ref>
+<Footprint_x0020_Ref>TL3305</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\TL3305.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\SW PUSH NO SMD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>SW PUSH NO TH</Part_x0020_Number>
+<Library_x0020_Ref>SW PUSH NO TH</Library_x0020_Ref>
+<Footprint_x0020_Ref>PB300STQ</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\PB300STQ.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\SW PUSH NO TH.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>SW ROCKER</Part_x0020_Number>
+<Library_x0020_Ref>SW ROCKER</Library_x0020_Ref>
+<Footprint_x0020_Ref>SWITCH ROCKER SPST 10A 125V</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SWITCH ROCKER SPST 10A 125V.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\SW ROCKER.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>SW SLIDE</Part_x0020_Number>
+<Library_x0020_Ref>SW SLIDE</Library_x0020_Ref>
+<Footprint_x0020_Ref>SPST GF-123-0054</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SPST GF-123-0054.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\SW SLIDE.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>Teco-FSMSM</Part_x0020_Number>
+<Library_x0020_Ref>Teco-FSMSM</Library_x0020_Ref>
+<Footprint_x0020_Ref>TECO-FSMSM</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\TECO-FSMSM.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\Teco-FSMSM.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>Test Point - 5019</Part_x0020_Number>
+<Library_x0020_Ref>Test Point - 5019</Library_x0020_Ref>
+<Footprint_x0020_Ref>TP380X203</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\TP380X203.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\Test Point - 5019.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>Test Point (Via)</Part_x0020_Number>
+<Library_x0020_Ref>Test Point (Via)</Library_x0020_Ref>
+<Footprint_x0020_Ref>TP</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\TP.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\Test Point (Via).Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>TLE5501</Part_x0020_Number>
+<Library_x0020_Ref>TLE5501</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-SOIC</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-SOIC.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\TLE5501.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>TPS54331</Part_x0020_Number>
+<Library_x0020_Ref>TPS54331</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-PowerSOIC</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-PowerSOIC.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\TPS54331.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>TPS54531DDA</Part_x0020_Number>
+<Library_x0020_Ref>TPS54531DDA</Library_x0020_Ref>
+<Footprint_x0020_Ref>8-PowerSOIC</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\8-PowerSOIC.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\TPS54531DDA.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>TPS563200DDCR</Part_x0020_Number>
+<Library_x0020_Ref>TPS563200DDCR</Library_x0020_Ref>
+<Footprint_x0020_Ref>TSOT-23-6</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\TSOT-23-6.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\TPS563200DDCR.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>USB Micro B Receptacle</Part_x0020_Number>
+<Library_x0020_Ref>USB Micro B Receptacle</Library_x0020_Ref>
+<Footprint_x0020_Ref>USB Micro B Receptacle</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\USB Micro B Receptacle.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\USB Micro B Receptacle.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>USBEMI</Part_x0020_Number>
+<Library_x0020_Ref>USBEMI</Library_x0020_Ref>
+<Footprint_x0020_Ref>USBEMITSSOP</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\USBEMITSSOP.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\USBEMI.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>USBLC6-4SC6</Part_x0020_Number>
+<Library_x0020_Ref>USBLC6-4SC6</Library_x0020_Ref>
+<Footprint_x0020_Ref>SOT23-6L</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SOT23-6L.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\USBLC6-4SC6.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>VS-5EWH06FN-M3</Part_x0020_Number>
+<Library_x0020_Ref>VS-5EWH06FN-M3</Library_x0020_Ref>
+<Footprint_x0020_Ref>DPAK (TO-252)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\DPAK (TO-252).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\VS-5EWH06FN-M3.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>XFRMR H1102NLT</Part_x0020_Number>
+<Library_x0020_Ref>XFRMR H1102NLT</Library_x0020_Ref>
+<Footprint_x0020_Ref>TRANSFORMER</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\TRANSFORMER.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\XFRMR H1102NLT.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>XT60 Connector</Part_x0020_Number>
+<Library_x0020_Ref>XT60 Connector</Library_x0020_Ref>
+<Footprint_x0020_Ref>XT60Connector</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\XT60Connector.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\XT60 Connector.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>XTAL 25MHZ 8PF SMD</Part_x0020_Number>
+<Library_x0020_Ref>XTAL 25MHZ 8PF SMD</Library_x0020_Ref>
+<Footprint_x0020_Ref>SMD-2</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SMD-2.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\XTAL 25MHZ 8PF SMD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>XTAL 32.7680KHZ 12.5PF SMD</Part_x0020_Number>
+<Library_x0020_Ref>XTAL 32.7680KHZ 12.5PF SMD</Library_x0020_Ref>
+<Footprint_x0020_Ref>SMD-2</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\SMD-2.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\XTAL 32.7680KHZ 12.5PF SMD.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>ZLDO1117K33TC</Part_x0020_Number>
+<Library_x0020_Ref>ZLDO1117K33TC</Library_x0020_Ref>
+<Footprint_x0020_Ref>DPAK (TO-252)</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\DPAK (TO-252).PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\ZLDO1117K33TC.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>IC OPAMP GP 4 CIRCUIT 14TSSOP</Part_x0020_Number>
+<Library_x0020_Ref>IC OPAMP GP 4 CIRCUIT 14TSSOP</Library_x0020_Ref>
+<Footprint_x0020_Ref>14-TSSOP</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\14-TSSOP.PcbLib</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\IC OPAMP GP 4 CIRCUIT 14TSSOP.SchLib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+<AltiumLibraries_SchLib>
+<Part_x0020_Number>CAP CER 0.1UF 50V X7R 0603</Part_x0020_Number>
+<Library_x0020_Ref>Schematic\CAPACITOR_SCH.Schlib</Library_x0020_Ref>
+<Footprint_x0020_Ref>0603</Footprint_x0020_Ref>
+<Footprint_x0020_Path>PCB\0603</Footprint_x0020_Path>
+<Library_x0020_Path>Schematic\CAPACITOR_SCH.Schlib</Library_x0020_Path>
+</AltiumLibraries_SchLib>
+</dataroot>
